@@ -1,4 +1,4 @@
-package com.sinosoftday02;
+package com.sinosoft.day02;
 
 import java.io.File;
 import java.io.FileNotFoundException;
