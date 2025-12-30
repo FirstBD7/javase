@@ -3,6 +3,7 @@ package com.sinosoft.day01;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
+import java.util.List;
 
 public class LinkedListDemo {
     /**
@@ -29,6 +30,7 @@ public class LinkedListDemo {
      */
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<>();
+        List<String> list01 = new LinkedList<>();
         list.add("hello");
         list.add(",");
         list.add("world");
